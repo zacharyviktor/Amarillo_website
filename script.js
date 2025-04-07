@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const messageButton = document.querySelector('.card-button');
   if (messageButton && messageButton.textContent === 'Send Message') {
     messageButton.addEventListener('click', function() {
-      alert('Thank you for your interest! This form is currently under development. Please contact me directly at zachary.amarillo@example.com');
+      alert('Thank you for your interest! This form is currently under development. Please contact me directly at zacharyamarillo@gmail.com');
     });
   }
 });
